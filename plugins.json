@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "1.0",
+  "plugins": [
+    {
+      "id": "FunnyToast.Plugin.Demo",
+      "displayName": "Demo Plugin",
+      "version": "1.0.0",
+      "author": "Pedro",
+      "description": "Plugin de exemplo: toasts de eventos de sistema (processos, USB, rede, bateria) e um widget de uptime.",
+      "downloadUrl": "https://github.com/SEU_USER/funnytoast-plugin-demo/releases/download/v1.0.0/FunnyToast.Plugin.Demo.dll",
+      "homepageUrl": "https://github.com/SEU_USER/funnytoast-plugin-demo",
+      "tags": ["exemplo", "eventos", "widget"]
+    }
+  ]
+}
